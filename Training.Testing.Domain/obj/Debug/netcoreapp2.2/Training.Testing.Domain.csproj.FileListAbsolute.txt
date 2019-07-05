@@ -1,0 +1,8 @@
+C:\Code\Training.Testing\Training.Testing.Domain\bin\Debug\netcoreapp2.2\Training.Testing.Domain.deps.json
+C:\Code\Training.Testing\Training.Testing.Domain\bin\Debug\netcoreapp2.2\Training.Testing.Domain.dll
+C:\Code\Training.Testing\Training.Testing.Domain\bin\Debug\netcoreapp2.2\Training.Testing.Domain.pdb
+C:\Code\Training.Testing\Training.Testing.Domain\obj\Debug\netcoreapp2.2\Training.Testing.Domain.csproj.CoreCompileInputs.cache
+C:\Code\Training.Testing\Training.Testing.Domain\obj\Debug\netcoreapp2.2\Training.Testing.Domain.AssemblyInfoInputs.cache
+C:\Code\Training.Testing\Training.Testing.Domain\obj\Debug\netcoreapp2.2\Training.Testing.Domain.AssemblyInfo.cs
+C:\Code\Training.Testing\Training.Testing.Domain\obj\Debug\netcoreapp2.2\Training.Testing.Domain.dll
+C:\Code\Training.Testing\Training.Testing.Domain\obj\Debug\netcoreapp2.2\Training.Testing.Domain.pdb

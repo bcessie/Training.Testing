@@ -1,0 +1,12 @@
+C:\Code\Training.Testing\Training.Testing.Repo\bin\Debug\netcoreapp2.2\Training.Testing.Repo.deps.json
+C:\Code\Training.Testing\Training.Testing.Repo\bin\Debug\netcoreapp2.2\Training.Testing.Repo.dll
+C:\Code\Training.Testing\Training.Testing.Repo\bin\Debug\netcoreapp2.2\Training.Testing.Repo.pdb
+C:\Code\Training.Testing\Training.Testing.Repo\bin\Debug\netcoreapp2.2\Training.Testing.Data.dll
+C:\Code\Training.Testing\Training.Testing.Repo\bin\Debug\netcoreapp2.2\Training.Testing.Data.pdb
+C:\Code\Training.Testing\Training.Testing.Repo\obj\Debug\netcoreapp2.2\Training.Testing.Repo.csprojAssemblyReference.cache
+C:\Code\Training.Testing\Training.Testing.Repo\obj\Debug\netcoreapp2.2\Training.Testing.Repo.csproj.CoreCompileInputs.cache
+C:\Code\Training.Testing\Training.Testing.Repo\obj\Debug\netcoreapp2.2\Training.Testing.Repo.AssemblyInfoInputs.cache
+C:\Code\Training.Testing\Training.Testing.Repo\obj\Debug\netcoreapp2.2\Training.Testing.Repo.AssemblyInfo.cs
+C:\Code\Training.Testing\Training.Testing.Repo\obj\Debug\netcoreapp2.2\Training.Testing.Repo.csproj.CopyComplete
+C:\Code\Training.Testing\Training.Testing.Repo\obj\Debug\netcoreapp2.2\Training.Testing.Repo.dll
+C:\Code\Training.Testing\Training.Testing.Repo\obj\Debug\netcoreapp2.2\Training.Testing.Repo.pdb

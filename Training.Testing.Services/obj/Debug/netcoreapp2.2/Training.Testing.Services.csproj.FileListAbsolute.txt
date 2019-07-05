@@ -1,0 +1,16 @@
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Services.deps.json
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Services.dll
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Services.pdb
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Data.dll
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Domain.dll
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Repo.dll
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Domain.pdb
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Repo.pdb
+C:\Code\Training.Testing\Training.Testing.Services\bin\Debug\netcoreapp2.2\Training.Testing.Data.pdb
+C:\Code\Training.Testing\Training.Testing.Services\obj\Debug\netcoreapp2.2\Training.Testing.Services.csprojAssemblyReference.cache
+C:\Code\Training.Testing\Training.Testing.Services\obj\Debug\netcoreapp2.2\Training.Testing.Services.csproj.CoreCompileInputs.cache
+C:\Code\Training.Testing\Training.Testing.Services\obj\Debug\netcoreapp2.2\Training.Testing.Services.AssemblyInfoInputs.cache
+C:\Code\Training.Testing\Training.Testing.Services\obj\Debug\netcoreapp2.2\Training.Testing.Services.AssemblyInfo.cs
+C:\Code\Training.Testing\Training.Testing.Services\obj\Debug\netcoreapp2.2\Training.Testing.Services.csproj.CopyComplete
+C:\Code\Training.Testing\Training.Testing.Services\obj\Debug\netcoreapp2.2\Training.Testing.Services.dll
+C:\Code\Training.Testing\Training.Testing.Services\obj\Debug\netcoreapp2.2\Training.Testing.Services.pdb
